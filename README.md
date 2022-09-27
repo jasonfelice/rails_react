@@ -37,10 +37,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- It's a Creative Commons design under [this](https://creativecommons.org/licenses/by-nc/4.0/) licence. Original design idea by [Gregoire Vella on Behance.](https://www.behance.net/gregoirevella).
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
