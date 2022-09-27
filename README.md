@@ -11,9 +11,13 @@ To get a local copy up and running follow these simple example steps.
 - Get the directory that you want to clone the repository.
 - Open the command prompt in this directory.
 - Write `https://github.com/jasonfelice/rails_react`.
-- Go to the repository folder in your command prompt `cd budget-app`.
-- Run `rails s` or `rails server` to start.
-- Run `Rspec spec` to run tests.
+- Go to the repository folder in your command prompt `cd rails_react`.
+- Run:
+  - `bundle install`.
+  - `Yarn install` or `npm install`.
+  - `Yarn build`
+  - `rails bin/dev`
+  - `rails s` or `rails server`
 
 ## Authors
 
