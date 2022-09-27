@@ -4,11 +4,14 @@ import {
   Routes,
   Route,
 } from 'react-router-dom';
+import Message from './Message';
 
 const App = () => (
-   <>
-     <h1>Hello World!</h1>
-   </>
+  <Router>
+    <Routes>
+      <Route path="/" element={<Message />} />
+    </Routes>
+  </Router>
 );
 
 export default App;
