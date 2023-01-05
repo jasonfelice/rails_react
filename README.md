@@ -1,5 +1,5 @@
 # Rails_React
-> This app displays a random greenting.
+> This app displays a random greenting
 
 ## Live demo
 [N/A](#)
