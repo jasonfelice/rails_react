@@ -1,5 +1,5 @@
 # Rails_React
-> This app displays a random greetings
+> This app displays a random greetings.
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
